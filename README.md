@@ -1,4 +1,4 @@
-# Java-Toturial
+# Java-Tutorial
 
 ## Core Java Concept...
 1. Hi, Techies you can also learn Core java from [Here](https://docs.oracle.com/javase/8/docs/)
